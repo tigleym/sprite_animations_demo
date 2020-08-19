@@ -1,4 +1,5 @@
 # sprite_animations_demo
+![camera-follow](https://user-images.githubusercontent.com/14285585/90681860-15310e00-e232-11ea-8c68-9223d2ea53df.gif)
 
 ## How to use
 
